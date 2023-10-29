@@ -4,7 +4,7 @@
 # 1. 이미지 다운로드
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
-# 2. SDKMANAGER DOWNLOAD  우분투 사양에 맞게 설
+# 2. SDKMANAGER DOWNLOAD  우분투 사양에 맞게 설정
 
 https://developer.nvidia.com/sdk-manager
 
@@ -15,7 +15,7 @@ https://developer.nvidia.com/sdk-manager
 # terminal open 후 sdkmanaget라고 치고 enter
 $ sdkmanager
 
-#다음 화면이 나온다.
+#다음 화면이 나온다. I accept누르는 것도 있고 컴퓨터 비번을 치는 부분,  제슨나노의 유저네임과 패스워드를 치는 것도 있다.
 
 ![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/edc71947-5786-4d0d-b215-394d10133175)
 
