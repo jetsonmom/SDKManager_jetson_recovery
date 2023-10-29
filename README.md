@@ -4,7 +4,7 @@
 # 1. 이미지 다운로드
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
-# 2. SDKMANAGER DOWNLOAD  우분투 사양에 맞게 설정
+# 2. SDKManager Download  우분투 사양에 맞게 설정
 
 https://developer.nvidia.com/sdk-manager
 
