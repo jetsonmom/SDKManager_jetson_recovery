@@ -17,3 +17,15 @@ $ sdkmanager
 
 #다음 화면이 나온다.
 
+![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/edc71947-5786-4d0d-b215-394d10133175)
+
+![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/798b468e-4e34-41c5-a249-a9eee04719a6)
+
+![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/c7a20237-9310-4017-8210-b6cb50a05d05)
+
+![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/a5be64ec-0593-4543-8aef-c0b9b393e15d)
+
+![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/17f1c5d1-b214-4a4d-baa6-0e876752f12d)
+
+![image](https://github.com/jetsonmom/SDKManager_jetson_recovery/assets/92077615/a2b3920e-b263-4fbc-98bc-bc42b9af9c96)
+
